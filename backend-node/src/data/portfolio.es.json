@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "name": "Francisco Bolatti",
+    "title": "Fullstack Engineer (Semi Senior)",
+    "subtitle": "React · TypeScript · Next.js · Laravel",
+    "location": "Rosario, Santa Fe, Argentina",
+    "availability": "Remoto / Híbrido | Disponibilidad inmediata",
+    "email": "panchobolatti@gmail.com",
+    "phone": "+54 341 6018942",
+    "linkedin": "https://linkedin.com/in/francisco-bolatti",
+    "github": "https://github.com/pancho95",
+    "summary": "Fullstack Engineer Ssr con más de 5 años de experiencia en Empretienda y Ualá, sobre una plataforma e-commerce SaaS con más de 250.000 tiendas y la webapp fintech de Ualá. Crecí de Frontend Developer a Fullstack Engineer, con foco en React, TypeScript, Redux y Next.js, y experiencia práctica en Laravel, SQL, Mercado Pago, Auth0 y Braze."
+  },
+  "skills": [
+    "React", "TypeScript", "Redux", "Next.js", "Laravel", "Tailwind CSS", "MySQL", "PostgreSQL", "Mercado Pago", "Auth0", "Braze", "Vercel", "Vitest"
+  ],
+  "experience": [
+    {
+      "company": "Empretienda (adquirida por Ualá)",
+      "period": "Dic 2022 - Ago 2026",
+      "role": "Fullstack Engineer (Ssr Frontend Developer)",
+      "highlights": [
+        "Implementé y mantuve funcionalidades clave en la webapp principal de Ualá y en la plataforma Empretienda.",
+        "Refactoricé y optimicé el flujo de checkout, priorizando rendimiento en picos de tráfico.",
+        "Participé en el desarrollo del débito automático de suscripciones con Mercado Pago sobre más de 250.000 tiendas.",
+        "Implementé flujos de autenticación segura con Auth0 y telemetría de eventos con Amplitude.",
+        "Construí las plantillas e-commerce Eris, Elara y Mimas en Laravel/PHP."
+      ]
+    },
+    {
+      "company": "Ualá / Empretienda",
+      "period": "May 2022 - Nov 2022",
+      "role": "Frontend Developer",
+      "highlights": [
+        "Desarrollé e integré componentes interactivos en el panel de control de tiendas y en el checkout de Empretienda."
+      ]
+    },
+    {
+      "company": "Empretienda",
+      "period": "Jun 2021 - May 2022",
+      "role": "Frontend Developer / Fullstack Contributor",
+      "highlights": [
+        "Convertí prototipos de Figma a código React interactivo y responsive con fidelidad pixel-perfect."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Architecture Studio",
+      "techStack": ["Next.js 15", "TypeScript", "Tailwind CSS", "Google Gemini API", "Vercel"],
+      "github": "https://github.com/pancho95/ai-architecture-studio",
+      "description": "Asistente de arquitectura de software que genera propuestas arquitectónicas en tiempo real utilizando IA generativa."
+    }
+  ]
+}
