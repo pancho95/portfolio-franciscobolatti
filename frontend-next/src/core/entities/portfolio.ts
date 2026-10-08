@@ -23,6 +23,7 @@ export interface ProjectItem {
   techStack: string[];
   github: string;
   description: string;
+  demo: string;
 }
 
 export interface PortfolioData {

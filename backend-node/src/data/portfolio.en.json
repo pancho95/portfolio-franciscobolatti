@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Francisco Bolatti",
-    "title": "Full Stack Engineer (Mid-Level)",
+    "title": "Full Stack Engineer",
     "subtitle": "React · TypeScript · Next.js · Laravel",
     "location": "Rosario, Santa Fe, Argentina",
     "availability": "Remote / Hybrid | Available immediately",
@@ -12,13 +12,25 @@
     "summary": "Mid-level Full Stack Engineer with 5+ years of experience at Empretienda and Ualá, working on an e-commerce SaaS platform serving 250,000+ stores and Ualá's fintech web app. Grew from Frontend Developer to Full Stack Engineer, focused on React, TypeScript, Redux and Next.js, with hands-on experience in Laravel, SQL, Mercado Pago, Auth0 and Braze."
   },
   "skills": [
-    "React", "TypeScript", "Redux", "Next.js", "Laravel", "Tailwind CSS", "MySQL", "PostgreSQL", "Mercado Pago", "Auth0", "Braze", "Vercel", "Vitest"
+    "React",
+    "TypeScript",
+    "Redux",
+    "Next.js",
+    "Laravel",
+    "Tailwind CSS",
+    "MySQL",
+    "PostgreSQL",
+    "Mercado Pago",
+    "Auth0",
+    "Braze",
+    "Vercel",
+    "Vitest"
   ],
   "experience": [
     {
       "company": "Empretienda (acquired by Ualá)",
       "period": "Dec 2022 - Aug 2026",
-      "role": "Full Stack Engineer (Mid-Level Frontend Developer)",
+      "role": "Full Stack Engineer",
       "highlights": [
         "Built and maintained key features in Ualá's main web app and the Empretienda platform.",
         "Refactored and optimized the checkout flow, prioritizing performance during traffic peaks.",
@@ -47,8 +59,15 @@
   "projects": [
     {
       "title": "AI Architecture Studio",
-      "techStack": ["Next.js 15", "TypeScript", "Tailwind CSS", "Google Gemini API", "Vercel"],
+      "techStack": [
+        "Next.js 15",
+        "TypeScript",
+        "Tailwind CSS",
+        "Google Gemini API",
+        "Vercel"
+      ],
       "github": "https://github.com/pancho95/ai-architecture-studio",
+      "demo": "https://ai-architecture-studio-eight.vercel.app",
       "description": "Software architecture assistant generating real-time architectural proposals using generative AI."
     }
   ]

@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Francisco Bolatti",
-    "title": "Fullstack Engineer (Semi Senior)",
+    "title": "Full Stack Engineer",
     "subtitle": "React · TypeScript · Next.js · Laravel",
     "location": "Rosario, Santa Fe, Argentina",
     "availability": "Remoto / Híbrido | Disponibilidad inmediata",
@@ -12,13 +12,25 @@
     "summary": "Fullstack Engineer Ssr con más de 5 años de experiencia en Empretienda y Ualá, sobre una plataforma e-commerce SaaS con más de 250.000 tiendas y la webapp fintech de Ualá. Crecí de Frontend Developer a Fullstack Engineer, con foco en React, TypeScript, Redux y Next.js, y experiencia práctica en Laravel, SQL, Mercado Pago, Auth0 y Braze."
   },
   "skills": [
-    "React", "TypeScript", "Redux", "Next.js", "Laravel", "Tailwind CSS", "MySQL", "PostgreSQL", "Mercado Pago", "Auth0", "Braze", "Vercel", "Vitest"
+    "React",
+    "TypeScript",
+    "Redux",
+    "Next.js",
+    "Laravel",
+    "Tailwind CSS",
+    "MySQL",
+    "PostgreSQL",
+    "Mercado Pago",
+    "Auth0",
+    "Braze",
+    "Vercel",
+    "Vitest"
   ],
   "experience": [
     {
       "company": "Empretienda (adquirida por Ualá)",
       "period": "Dic 2022 - Ago 2026",
-      "role": "Fullstack Engineer (Ssr Frontend Developer)",
+      "role": "Fullstack Engineer",
       "highlights": [
         "Implementé y mantuve funcionalidades clave en la webapp principal de Ualá y en la plataforma Empretienda.",
         "Refactoricé y optimicé el flujo de checkout, priorizando rendimiento en picos de tráfico.",
@@ -47,8 +59,15 @@
   "projects": [
     {
       "title": "AI Architecture Studio",
-      "techStack": ["Next.js 15", "TypeScript", "Tailwind CSS", "Google Gemini API", "Vercel"],
+      "techStack": [
+        "Next.js 15",
+        "TypeScript",
+        "Tailwind CSS",
+        "Google Gemini API",
+        "Vercel"
+      ],
       "github": "https://github.com/pancho95/ai-architecture-studio",
+      "demo": "https://ai-architecture-studio-eight.vercel.app",
       "description": "Asistente de arquitectura de software que genera propuestas arquitectónicas en tiempo real utilizando IA generativa."
     }
   ]
